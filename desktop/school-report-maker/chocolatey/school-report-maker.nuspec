@@ -8,12 +8,16 @@
     <owners>DeryCode Technologies</owners>
     <projectUrl>https://derycode.online/projects/school-report-maker.html</projectUrl>
     <packageSourceUrl>https://github.com/asiimwe3/school-report-maker</packageSourceUrl>
+    <projectSourceUrl>https://github.com/asiimwe3/school-report-maker</projectSourceUrl>
+    <iconUrl>https://derycode.online/assets/srs-icon-512.png</iconUrl>
     <licenseUrl>https://derycode.online/terms.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/asiimwe3/school-report-maker</projectSourceUrl>
-    <summary>Offline school report card system for Ugandan secondary schools.</summary>
-    <description>Builds report cards from teacher-entered marks with Uganda A-E grading, aggregates, division and automatic remarks. Runs fully offline on Windows.</description>
-    <tags>education school reports uganda offline report-cards</tags>
+    <summary>Offline report card system for Ugandan secondary schools.</summary>
+    <description>School Report Maker builds report cards from teacher-entered marks using Uganda A-E grading, aggregates, division and automatic remarks.
+
+It runs fully offline on Windows, keeps the whole school in a single local file with rotating backups, and prints or exports report cards each term. Built and supported by DeryCode Technologies, Kyenjojo, Uganda.</description>
+    <releaseNotes>2.3.28: report card layout fixes, faster mark entry, safer backups on shutdown.</releaseNotes>
+    <tags>education school reports uganda offline report-cards derycode</tags>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
