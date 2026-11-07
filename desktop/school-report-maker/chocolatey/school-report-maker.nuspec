@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>school-report-maker</id>
+    <version>2.3.28</version>
+    <title>School Report Maker</title>
+    <authors>DeryCode Technologies</authors>
+    <owners>DeryCode Technologies</owners>
+    <projectUrl>https://derycode.online/projects/school-report-maker.html</projectUrl>
+    <packageSourceUrl>https://github.com/asiimwe3/school-report-maker</packageSourceUrl>
+    <licenseUrl>https://derycode.online/terms.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/asiimwe3/school-report-maker</projectSourceUrl>
+    <summary>Offline school report card system for Ugandan secondary schools.</summary>
+    <description>Builds report cards from teacher-entered marks with Uganda A-E grading, aggregates, division and automatic remarks. Runs fully offline on Windows.</description>
+    <tags>education school reports uganda offline report-cards</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

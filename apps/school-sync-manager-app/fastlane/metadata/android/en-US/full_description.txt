@@ -1,0 +1,11 @@
+School Sync Manager keeps a Uganda school's core records on a phone and syncs them to the school system.
+
+WHAT IT DOES
+• Student and staff registers with class assignment
+• Works offline and syncs when a connection is available
+• Simple, large, readable screens for use in a busy school office
+
+WHO IT IS FOR
+School administrators and head teachers.
+
+Support on WhatsApp: +256 762 306 675

@@ -1,0 +1,17 @@
+The teacher side of School Report Maker, used by Ugandan secondary schools.
+
+This app is for class teachers. It works completely offline: enter marks on your phone in class, then hand them to the school console by QR code or file. No data bundle needed, and no waiting for the school network.
+
+WHAT IT DOES
+• Enter marks per subject and assessment: Beginning of Term, Mid Term, End of Term
+• Only your school's learners ever appear, and marks from another school are refused
+• Works offline for the whole term, then syncs to the school computer
+• Uganda A–E grading, aggregates, division and automatic remarks
+• Report cards print from the school console, not the phone
+
+WHO IT IS FOR
+Class teachers and heads of department in Ugandan secondary schools.
+
+Privacy: the app requests internet only for optional school sync and updates.
+
+Support on WhatsApp: +256 762 306 675

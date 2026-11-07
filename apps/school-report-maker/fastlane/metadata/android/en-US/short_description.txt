@@ -1,0 +1,1 @@
+Teachers enter marks offline, school prints report cards at term end.

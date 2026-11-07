@@ -1,0 +1,24 @@
+# winget manifest (v1.6). Submit by opening a PR that adds:
+#   manifests/d/DeryCodeTechnologies/SchoolReportMaker/2.3.28/
+# with the three files generated under this folder.
+PackageIdentifier: DeryCodeTechnologies.SchoolReportMaker
+PackageVersion: 2.3.28
+PackageLocale: en-US
+Publisher: DeryCode Technologies
+PublisherUrl: https://derycode.online
+PublisherSupportUrl: https://derycode.online
+PrivacyUrl: https://derycode.online/privacy.html
+PackageName: School Report Maker
+PackageUrl: https://derycode.online/projects/school-report-maker.html
+License: Proprietary
+ShortDescription: Offline school report card system for Ugandan secondary schools.
+Description: Builds report cards from teacher-entered marks with Uganda A-E grading, aggregates, division and automatic remarks. The console runs fully offline on Windows, holds the whole school in one file, and keeps a rotating backup.
+Moniker: srm
+Tags: [education, school, reports, uganda, offline, report-cards]
+Installers:
+  - Architecture: x64
+    InstallerType: msi
+    InstallerUrl: https://github.com/asiimwe3/school-report-maker/releases/download/v2.4.31/SchoolReportMaker-2.3.28.msi
+    InstallerSha256: 84A1E3957F13BC9A11641B14AA086E0A3981B4AD14469F44EEE8660868B78319
+ManifestType: singleton
+ManifestVersion: 1.6.0

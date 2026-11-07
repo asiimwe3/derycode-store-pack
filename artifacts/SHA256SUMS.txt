@@ -1,0 +1,8 @@
+aacc020f4dcd24efc23bd45bd2da63082be2e42a48e986437b2fa46d2f8a74cb  DeryAccount-1.0.8.apk
+b3cc21988e66d7dec9145f600b44d7032ff57ae84054d65da14d432880fe81eb  DeryCode-app-1.0.0.apk
+ad560ffd5eb9ab53b719bed796f729ff35636ef6308e8b7f5cd1c8202e1c657f  SagecoEvergreen-4.1.0.apk
+70e8bdb0fa2d75aaeeda6e403df1dfbb87f375fdc6961e41f1fa30bb3d49327a  SchoolReportMaker-teacher-1.20.6.apk
+0d1505b3927e0c8d46a196feb49f0726769f4c07b73e6511d6d8d107e67d731d  SchoolSyncManager-1.0.0.apk
+238edcf4a50fa9121f0c82108fcc52d6becde2dbd67f142da8431a3201d1f913  TooroMusic-1.0.0.apk
+84a1e3957f13bc9a11641b14aa086e0a3981b4ad14469f44eee8660868b78319  SchoolReportMaker-2.3.28.msi
+6e7f5e7901b6eb9e8b348dcdaec8903c6a157ec7f0e43229810261ebaebd1c8e  DeryCode-1.0.0.aab
