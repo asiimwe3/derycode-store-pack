@@ -101,3 +101,12 @@ Individual developer account is a one-time $19, and it requires an MSIX package.
 - The Google Play route is separate and needs a $25 account plus identity verification; only the DeryCode app bundle is currently Play-ready.
 - APKPure, Uptodown, Aptoide, Amazon, Samsung and Huawei all accept APKs at targetSdk 34.
 - All six APKs are signed. Store the signing key for each app safely: updating an app on any store requires the same key.
+
+---
+
+# Known gaps in this pack
+
+1. **Sageco Evergreen and School Sync Manager ship the same launcher icon** (identical file). One of them was built from the other's resources. Give me the correct Sageco mark and I will regenerate both icons.
+2. **Screenshots exist only for the DeryCode app.** The other five need real device screenshots before submitting to APKPure, Uptodown, Aptoide, Amazon, Samsung and Huawei, which all display them prominently.
+3. **No LICENSE file** in DeryAccount, School Report Maker or DeryCode app, so F-Droid is blocked until you decide the licence.
+4. **Google Play is not covered here.** It needs a $25 account, identity verification and targetSdk 36 rebuilds for five of the six apps. Only the DeryCode app has a validated Play bundle today.
